@@ -11,9 +11,9 @@ int main(){
     months = days / 30;
     days = days % 30;
 
-    cout << years << " ano(s)" << endl;
-    cout << months << " mes(es)" << endl;
-    cout << days << " dia(s)" << endl;
+    cout << years << " ano(s)" << endl; //anos
+    cout << months << " mes(es)" << endl; //meses
+    cout << days << " dia(s)" << endl; //dias
 
     return 0;
 }    
