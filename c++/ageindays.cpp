@@ -13,7 +13,7 @@ int main(){
 
     cout << years << " ano(s)" << endl; //anos
     cout << months << " mes(es)" << endl; //meses
-    cout << days << " dia(s)" << endl; //dias
+    cout << days << " dia(s)" << endl; //dias   
 
     return 0;
 }    
