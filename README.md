@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">Soluções de exercícios da plataforma 
-    <a href="https://www.beecrowd.com.br/">beecrowd</a>
+    <a href="https://judge.beecrowd.com/">beecrowd</a>
 </p>
 
 <br />
