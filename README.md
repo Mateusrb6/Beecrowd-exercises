@@ -1,4 +1,4 @@
-<h1 align="center">beecrowd 🐝</h1>
+<h1 align="center">Beecrowd 🐝</h1>
 
 <br />
 
