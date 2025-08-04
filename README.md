@@ -15,6 +15,7 @@
 ### Navegar por linguagem
 
 - [C++](https://github.com/Mateusrb6/Beecrowd-exercises/tree/main/c%2B%2B)
+- [Python](https://github.com/Mateusrb6/Beecrowd-exercises/tree/main/python)
 
 <br />
 
